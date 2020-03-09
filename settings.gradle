@@ -1,0 +1,2 @@
+rootProject.name='Android11'
+include ':app'
